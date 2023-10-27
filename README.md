@@ -11,3 +11,5 @@ I created 3 segmentation methods that or both interactive and/or non-interactive
 
 Also, I'm passionate 🤟 about mathematics, tennis 🎾 and badminton 🏸
 
+
+You can reach me using my personal Email  📧: antoine.habis.tlcm@gmail.com
