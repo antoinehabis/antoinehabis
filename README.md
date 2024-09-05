@@ -2,14 +2,12 @@
 
 
 
-I'm a doctoral student 📖 at Institut Pasteur ⚕️ & Télécom-Paris 🏫.
 
-My thesis focuses on segmentation in Histopathology but the methods used extend to all types of images.
+I am a freshly graduated PhD 📖 from Télécom Paris 🏫 and Institut Pasteur ⚕️ , where I focused on applying artificial intelligence to histology. 
 
-I created 3 segmentation methods that are both interactive and/or non-interactive.
+During my thesis, I developed three different segmentation methods—both interactive and non-interactive—utilizing various levels of supervision to improve histological analysis.
 
-
-Also, I'm passionate 🤟 about mathematics, tennis 🎾 and badminton 🏸
+In addition to my academic work, I enjoy playing badminton 🏸, tennis 🎾, and chess :chess_pawn:, which help me balance the mental challenges of research with physical and strategic activities I love.
 
 
 You can reach me using my personal Email  📧: antoine.habis.tlcm@gmail.com
